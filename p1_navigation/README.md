@@ -3,10 +3,11 @@
 [image1]: https://user-images.githubusercontent.com/10624937/42135619-d90f2f28-7d12-11e8-8823-82b970a54d7e.gif "Trained Agent"
 
 # Project 1: Navigation
+Read the report [https://github.com/alvanli/ReinforcementLearning/blob/master/p1_navigation/report.pdf] to learn more!
 
 ### Introduction
 
-For this project, you will train an agent to navigate (and collect bananas!) in a large, square world.  
+For this project, an agent is trained to navigate (and collect bananas!) in a large, square world.  
 
 ![Trained Agent][image1]
 
@@ -20,19 +21,3 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 
 The task is episodic, and in order to solve the environment, your agent must get an average score of +13 over 100 consecutive episodes.
 
-### Getting Started
-
-1. Download the environment from one of the links below.  You need only select the environment that matches your operating systems
-    - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
-
-2. Place the file in the DRLND GitHub repository, in the directory, and unzip (or decompress) the file. 
-
-3. The following dependencies are needed:
-- numpy
-- unityagents
-- pytorch
-- matplotlib.pyplot
-
-### Instructions
-
-Use Jupyter to open the notebook and run all the cells in the notebook.
